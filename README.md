@@ -8,9 +8,9 @@
 
 <p align="center">
 	
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Wheyckson/proffy.svg">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Wheyckson/prof.svg">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Wheyckson/proffy.svg">  
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Wheyckson/prof.svg">  
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
    
