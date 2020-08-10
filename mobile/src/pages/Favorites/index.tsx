@@ -34,8 +34,8 @@ function Favorites() {
             <ScrollView
                 style={styles.teacherList}
                 contentContainerStyle={{
-                    paddingHorizontal: 12,
-                    paddingBottom: 12,
+                    paddingHorizontal: 16,
+                    paddingBottom: 16,
                 }}
             >
                 {favorites.map((teacher: Teacher) => {

@@ -46,11 +46,14 @@ function TeacherList() {
                             { value: 'Biologia', label: 'Biologia' },
                             { value: 'Ciência', label: 'Ciência' },
                             { value: 'Educação física', label: 'Educação física' },
+                            { value: 'Filosofia', label: 'Filosofia' },
                             { value: 'Física', label: 'Física' },
                             { value: 'Geografia', label: 'Geografia' },
                             { value: 'História', label: 'História' },
+                            { value: 'Inglês', label: 'Inglês' },
                             { value: 'Matemática', label: 'Matemática' },
                             { value: 'Português', label: 'Português' },
+                            { value: 'Programação', label: 'Programação' },
                             { value: 'Química', label: 'Química' },
                         ]}
                     />

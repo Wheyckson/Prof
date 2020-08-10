@@ -3,7 +3,7 @@ import { StyleSheet } from 'react-native';
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-        backgroundColor: '#8257e5',
+        backgroundColor: '#2c2c2c',
         justifyContent: 'center',
         padding: 32.9
     },
@@ -28,7 +28,7 @@ const styles = StyleSheet.create({
     buttonsContainer: {
         flexDirection: 'row',
         marginTop: 40,
-        justifyContent: 'space-between',
+        justifyContent: 'space-between',        
     },
 
     button: {
@@ -41,11 +41,11 @@ const styles = StyleSheet.create({
     },
 
     buttonPrimary: {
-        backgroundColor: '#9871f5',
+        backgroundColor: '#713cec',
     },
 
     buttonSecondary: {
-        backgroundColor: '#04d361',
+        backgroundColor: '#ef9931',
     },
 
     buttonText: {
@@ -56,8 +56,8 @@ const styles = StyleSheet.create({
 
     totalConnections: {
         fontFamily: 'Poppins_400Regular',
-        color: '#d4c2ff',
-        fontSize: 12,
+        color: '#ef9931',
+        fontSize: 13,
         lineHeight: 20,
         maxWidth: 140,
         marginTop: 40,

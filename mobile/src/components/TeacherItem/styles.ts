@@ -29,13 +29,13 @@ const styles = StyleSheet.create({
 
     name: {
         fontFamily: 'Archivo_700Bold',
-        color: '#32264d',
+        color: '#d68829',
         fontSize: 20,
     },
 
     subject: {
         fontFamily: 'Poppins_400Regular',
-        color: '#6a6180',
+        color: '#313131',
         fontSize: 14,
         marginTop: 4
     },
@@ -45,7 +45,7 @@ const styles = StyleSheet.create({
         fontFamily: 'Poppins_400Regular',
         fontSize: 14,
         lineHeight: 24,
-        color: '#6a6180',
+        color: '#313131',
     },
 
     footer: {
@@ -87,7 +87,7 @@ const styles = StyleSheet.create({
     },
 
     contactButton: {
-        backgroundColor: '#04d361',
+        backgroundColor: '#ef9931',
         flex: 1,
         height: 56,
         borderRadius: 9,
